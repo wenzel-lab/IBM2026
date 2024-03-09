@@ -15,3 +15,7 @@ La sesión ha sido estructurada de la siguiente manera:
 - [Creación de Perfil via archivo README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 - [Creación de sitio web usando GitHub Pages](https://github.com/skills/github-pages).
 - Actualización de repositorio de curso.
+
+## Clases
+
+- [Clase 2024-01](/2024-01/)
