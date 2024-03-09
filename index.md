@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # GitHub: Desarrollo Colaborativo y Abierto
 
 Este sitio web es uno de los principales recursos de la sesión práctica sobre GitHub.
