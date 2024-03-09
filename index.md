@@ -1,13 +1,10 @@
 ---
-title: IBM2026 - Prototyping for Bioengineers
 ---
 # GitHub: Desarrollo Colaborativo y Abierto
 
 Este sitio web es uno de los principales recursos de la sesión práctica sobre GitHub.
 
 ## Bienvenido/a
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
 Este sitio tiene como objetivo almacenar los resultados de la sesión práctica de GitHub, asi como ser un espacio para compartir recursos asociado a Git y GitHub para el prototipado de hardware científico abierto.
 
