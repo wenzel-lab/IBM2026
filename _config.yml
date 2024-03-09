@@ -1,7 +1,13 @@
-theme: minima
 title: Lab Notebook
-author: Pierre Padilla Huamantinco
+author:
+  name: Pierre Padilla Huamantinco
+  email: pgpadilla@uc.cl
 description: Institute for Biological and Medical Engineering
+
+theme: minima
+
+header_pages:
+  - about.md
 
 minima:
   skin: dark
