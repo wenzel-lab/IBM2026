@@ -3,11 +3,11 @@ layout: base
 ---
 # GitHub: Desarrollo Colaborativo y Abierto
 
-Este sitio web es uno de los principales recursos de la sesión práctica sobre GitHub.
+
 
 ## Bienvenido/a
 
-Este sitio tiene como objetivo almacenar los resultados de la sesión práctica de GitHub, asi como ser un espacio para compartir recursos asociado a Git y GitHub para el prototipado de hardware científico abierto.
+Este sitio tiene como objetivo ser un espacio para compartir recursos asociados a Git y GitHub para el prototipado de hardware científico abierto. Además, almacena los resultados de la sesión práctica sobre GitHub del curso _[IBM2026 Prototyping for Bioengineers](about.md)_.
 
 La sesión ha sido estructurada de la siguiente manera:
 
