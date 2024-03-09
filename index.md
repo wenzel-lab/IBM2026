@@ -18,4 +18,4 @@ La sesión ha sido estructurada de la siguiente manera:
 
 ## Clases
 
-- [Clase 2024-01](/2024-01/)
+- [Clase 2024-01](class_2024_01.md)
