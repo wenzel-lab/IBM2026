@@ -1,4 +1,7 @@
 theme: minima
 title: Lab Notebook
 author: Pierre Padilla Huamantinco
-description: IBM2026
+description: Institute for Biological and Medical Engineering
+
+minima:
+  skin: dark
