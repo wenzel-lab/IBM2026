@@ -36,7 +36,7 @@ La sesión ha sido estructurada de la siguiente manera:
 ### ¿Qué sigue?
 
 - Continúa trabajando en su sitio web para documentar los resultados de las próxima sesiones prácticas. Serán recursos útiles para tus futuros proyectos.
-- Nos gustaría conocer tu opinión sobre esta sesión. [Crea un post en el foro del curso](https://cursos.canvas.uc.cl/) y comparte tu experiencia. Si ya existe un post sobre el tema, agregar tus comentarios y/o sugerencias.
+- Nos gustaría conocer tu opinión sobre esta sesión. [Crea un post en el foro del curso](https://cursos.canvas.uc.cl/) y comparte tu experiencia. Si ya existe un post sobre el tema, agrega tus comentarios y/o sugerencias.
 - [Toma otros cursos de GitHub](https://github.com/skills) para seguir mejorando tus habilidades de documentación.
 - [Lee más información sobre GitHub](https://docs.github.com/en/get-started).
 - Para encontrar proyectos donde colaborar, visita [GitHub Explore](https://github.com/explore).
