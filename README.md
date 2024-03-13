@@ -29,6 +29,7 @@ Este repositorio tiene como objetivo almacenar los resultados de la sesión prá
 La sesión ha sido estructurada de la siguiente manera:
 
 - [Operaciones básicas en GitHub](https://github.com/skills/introduction-to-github).
+- [Comunicación via Markdown](https://github.com/skills/communicate-using-markdown).
 - [Creación de Perfil via archivo README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 - [Creación de sitio web usando GitHub Pages](https://github.com/skills/github-pages).
 - Actualización de repositorio de curso.
