@@ -25,4 +25,5 @@ La sesión ha sido estructurada de la siguiente manera:
 
 - [Escribiendo en GitHub - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github)
 - [Guía para principiantes sobre Git y GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
