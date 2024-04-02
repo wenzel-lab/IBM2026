@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /3D printing/
+permalink: /3D_printing/
 ---
 
 # Fabricación Digital: Impresión 3D

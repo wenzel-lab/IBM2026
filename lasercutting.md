@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /Laser cutting/
+permalink: /laser_cutting/
 ---
 
 # Fabricación Digital: Corte Láser
