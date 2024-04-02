@@ -2,13 +2,10 @@
 layout: base
 permalink: /3D printing/
 ---
-<header>
 
 # Fabricación Digital: Impresión 3D
 
 _Repositorio de la sesión práctica sobre Impresión 3D_
-
-</header>
 
 ## Contenido
 

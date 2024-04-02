@@ -1,13 +1,10 @@
 ---
 layout: base
 ---
-<header>
 
 # IBM2026 - Prototyping for Bioengineers
 
 _Esta página web forma parte de los recursos del curso de pregrado IBM2026 Prototyping for Bioengineers. Los profesores y ayudantes de este curso forman parte del [Instituto de Ingeniería Biológica y Médica](https://ingenieriabiologicaymedica.uc.cl/es/)._
-
-</header>
 
 ## Bienvenido/a
 

@@ -2,13 +2,10 @@
 layout: base
 permalink: /GitHub/
 ---
-<header>
 
 # GitHub: Desarrollo Colaborativo y Abierto
 
 _Repositorio de la sesión práctica sobre Git y GitHub_
-
-</header>
 
 ## Contenido
 
