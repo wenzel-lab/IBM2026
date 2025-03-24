@@ -13,11 +13,13 @@ Este curso permite a los estudiantes desarrollar habilidades prácticas para dis
 ## Contenido
 
 1. [Git y GitHub](github.md)
-2. [Impresión 3D](3dprinting.md)
-3. [Corte Láser](lasercutting.md)
-4. Electrónica abierta para prototipado
-5. Microscopía Automatizada: Open Flexure Microscope
+2. [Impresión 3D]()
+3. [Corte Láser]()
+4. [Electrónica abierta para prototipado]()
+5. [Microscopía Automatizada: Open Flexure Microscope]()
 
 ## Contacto
 
 Para consultas e inquietudes sobre el curso o la página web, contactar a los instructores a traves de [Canvas UC](https://cursos.canvas.uc.cl/) o correo electrónico (pgpadilla@uc.cl).
+
+Puedes encontrar el repositorio del curso en [GitHub](https://github.com/wenzel-lab/IBM2026)

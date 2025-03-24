@@ -53,6 +53,6 @@ La sesión ha sido estructurada de la siguiente manera:
 
 Obtén ayuda: [Publica tus consultas en UC Canvas](https://cursos.canvas.uc.cl/)
 
-2024 IBM2026 &bull; [Code of Conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) &bull; [MIT License](https://gh.io/mit)
+2025 IBM2026 &bull; [Code of Conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) &bull; [MIT License](https://gh.io/mit)
 
 </footer>

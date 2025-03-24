@@ -3,7 +3,7 @@ layout: base
 permalink: /GitHub/
 ---
 
-# GitHub: Desarrollo Colaborativo y Abierto
+# GitHub: Diseño Colaborativo y Abierto
 
 _Repositorio de la sesión práctica sobre Git y GitHub_
 
@@ -15,10 +15,10 @@ La sesión ha sido estructurada de la siguiente manera:
 - [Comunicación via Markdown](https://github.com/skills/communicate-using-markdown).
 - [Creación de Perfil via archivo README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 - [Creación de sitio web usando GitHub Pages](https://github.com/skills/github-pages).
-- [Actualización de repositorio de curso](https://github.com/wenzel-lab/GitHub_IBM2026).
 
 ## Clases
 
+- [Clase 2025-01](class_2025_01.md)
 - [Clase 2024-01](class_2024_01.md)
 
 ## Otros Recursos
